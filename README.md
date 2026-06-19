@@ -45,14 +45,14 @@
 ### 🚧 [Site Inspection Robot](https://github.com/sanghyeon-222/site_inspection_robot)
 - **Description** : SLAM 기반 자율 주행 / YOLO 비전 기반 객체 인식 / 무인 현장 점검 로봇 시스템 구축
 - **Role** : SLAM 기반 자율 주행, 서버 구현
-- **Tech Stack** : ROS2, C++, Python
+- **Tech Stack** : ROS2, STM32, yolo, Cartographer, Nav2, Node.js
 
 ### 🎤 [Vocal Maestro Robot System](https://github.com/sanghyeon-222/Vocal_Maestro_Robot_System)
 - **Description** : 음성 인식 기반 로봇 제어 / 다중 로봇 통신 및 제어 / 작업자 업무 보조 시스템 개발
 - **Role** : 음성 비서 시스템, 다중 로봇 제어 구현
-- **Tech Stack** : ROS2, Python, Node.js *(사용한 핵심 기술 기재)*
+- **Tech Stack** : ROS2, Qt, yolo, Whisper, OpenWakeWord, Rasa, mariaDB, Cartographer, Nav2
 
 ### 🧠 [AI Memory Assist](https://github.com/Intel-Edge-9s/AI_Memory_Assist)
 - **Description** : RAG 시스템 / 사물 위치 정보 실시간 기록 / 사용자 행동 패턴 분석 기반 기억 보조 앱 서비스
 - **Role** : 앱 개발, LLM 시스템 구성, 이벤트 처리 설계
-- **Tech Stack** : Python, OpenCV, Linux *(사용한 핵심 기술 기재)*
+- **Tech Stack** : yolo, Gemma, Android SDK, multilingual, ROS2, Docker, MediaPipe
