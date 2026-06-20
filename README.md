@@ -43,7 +43,7 @@
 </div>
 
 ### 🚧 [Site Inspection Robot](https://github.com/sanghyeon-222/site_inspection_robot)
-- **Description** : SLAM 기반 자율 주행 / YOLO 비전 기반 객체 인식 / 무인 현장 점검 로봇 시스템 구축
+- **Description** : CAN 통신 / SLAM 기반 자율 주행 / YOLO 비전 기반 객체 인식 / 무인 현장 점검 로봇 시스템 구축
 - **Role** : SLAM 기반 자율 주행, 서버 구현
 - **Tech Stack** : ROS2, STM32, yolo, Cartographer, Nav2, Node.js
 
